@@ -1,5 +1,8 @@
 _repo: The-Great-Revival-of-the-Eighteenth-Century-with-a-supplemental-chapter-on-the-revival-in-Ame__61062
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61062-h/images/cover.jpg
 creator:
   author:
     agent_name: Hood, Edwin Paxton
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41193'
     url: http://www.gutenberg.org/2009/agents/41193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61062#The-Great-Revival-of-the-Eighteenth-Century-with-a-supplemental-chapter-on-the-revival-in-Ame_
 gutenberg_issued: '2019-12-31'
 gutenberg_type: Text
 identifiers:
